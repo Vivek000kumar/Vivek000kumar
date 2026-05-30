@@ -1,339 +1,99 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:140021,50:4B0082,75:7F00FF,100:000000&text=VIVEK%20KUMAR&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Agentic%20AI%20Builder&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Loading+Agentic+Systems...;Building+Autonomous+Intelligence...;Developing+Full+Stack+Applications...;Exploring+Multi-Agent+Architectures...;Transforming+Data+Into+Decisions..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Vivek+Kumar;AI+Engineer;Full+Stack+Developer;Agentic+AI+Builder;Open+Source+Enthusiast"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Vivek000kumar&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vivek000kumar&label=PROFILE+VIEWS&style=flat-square&color=grey"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2c0f2f52-72b0-4c96-b46f-6b9d65f7f6cb.gif" width="100%">
 
-```bash
-┌──────────────────────────────────────────────┐
-│ AI CORE STATUS        : ONLINE               │
-│ AGENTIC SYSTEMS       : ACTIVE               │
-│ FULL STACK MODULE     : RUNNING              │
-│ MACHINE LEARNING      : OPERATIONAL          │
-│ OPEN SOURCE MODE      : ENABLED              │
-└──────────────────────────────────────────────┘
-```
+# ~/about
 
----
+```console
+$ whoami
 
-# 💻 TERMINAL
+Name        : Vivek Kumar
+Role        : AI Engineer
+Education   : B.Tech AI & Data Science
+Location    : India
 
-```bash
-vivek@cybercore:~$ whoami
-
-Name       : Vivek Kumar
-Role       : AI Engineer & Full Stack Developer
-Education  : B.Tech AI & Data Science
-Location   : Delhi, India
-
-Current Focus:
+Focus Areas :
 - Agentic AI
-- Multi-Agent Systems
-- Full Stack Development
 - Machine Learning
-- Generative AI
+- Data Science
+- Full Stack Development
+- Open Source
+
+Status      : Building intelligent systems
 ```
 
 ---
-
-# 🧠 WHOAMI
-
-```python
-class VivekKumar:
-
-    role = "AI Engineer"
-
-    specialization = [
-        "Artificial Intelligence",
-        "Data Science",
-        "Machine Learning",
-        "Full Stack Development"
-    ]
-
-    currently_building = [
-        "Agentic AI Systems",
-        "AI Assistants",
-        "Netflix Clone",
-        "Blockchain Applications",
-        "Autonomous Workflows"
-    ]
-
-    mission = "Build intelligent systems that solve real-world problems"
-```
-
----
-
-# 🌌 AI RESEARCH LAB
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-Agentic AI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-LLMs
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-Deep Learning
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-Data Science
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚔️ FULL STACK + AI ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,github,vscode,docker"/>
+<img width="500" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74aa-4c42-9d6e-c4f5f4d68b4d.gif">
 
 </div>
 
 ---
 
-## 🤖 AI / ML
-
-```yaml
-Machine Learning:
-  - Scikit-Learn
-  - TensorFlow
-  - PyTorch
-
-Generative AI:
-  - OpenAI API
-  - LangChain
-  - CrewAI
-  - AutoGen
-  - Hugging Face
-
-Data Science:
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Power BI
-  - Predictive Analytics
-```
-
----
-
-## 🌐 Full Stack Development
-
-```yaml
-Frontend:
-  - React.js
-  - Next.js
-  - HTML5
-  - CSS3
-  - JavaScript
-  - TypeScript
-
-Backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-
-Database:
-  - MongoDB
-  - MySQL
-
-Tools:
-  - Git
-  - GitHub
-  - Docker
-  - VS Code
-```
-
----
-
-# 🚀 PROJECT MATRIX
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 Agentic AI Assistant
-
-### Tech Stack
-
-Python • LangChain • OpenAI
-
-### Features
-
-✓ Autonomous AI Agents
-
-✓ Data Analysis
-
-✓ Automated Insights
-
-✓ Natural Language Queries
-
-</td>
-
-<td width="50%">
-
-<img src="assets/agentic-demo.gif"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 😊 Emotion Detection System
-
-### Tech Stack
-
-Python • TensorFlow • OpenCV
-
-### Features
-
-✓ Real-Time Detection
-
-✓ Face Recognition
-
-✓ Emotion Classification
-
-</td>
-
-<td width="50%">
-
-<img src="assets/emotion-demo.gif"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎬 Netflix Clone
-
-### Tech Stack
-
-React • Node.js • MongoDB
-
-### Features
-
-✓ Authentication
-
-✓ Responsive UI
-
-✓ Dynamic Content
-
-✓ Movie Catalog
-
-</td>
-
-<td width="50%">
-
-<img src="assets/netflix-demo.gif"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🗳 Blockchain Voting System
-
-### Tech Stack
-
-Python • Blockchain
-
-### Features
-
-✓ Secure Voting
-
-✓ Transparency
-
-✓ Tamper Resistant
-
-</td>
-
-<td width="50%">
-
-<img src="assets/blockchain-demo.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🔥 CONTRIBUTION STREAK
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek000kumar&theme=midnight-purple&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,docker,git,github,vscode"/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENT MATRIX
+# 🚀 Featured Projects
+
+| Project                     | Description                                    | Stack                     |
+| --------------------------- | ---------------------------------------------- | ------------------------- |
+| 🤖 Agentic AI Assistant     | Autonomous AI workflows and intelligent agents | Python, LangChain, OpenAI |
+| 😊 Emotion Detection System | Real-time facial emotion recognition           | TensorFlow, OpenCV        |
+| 🎬 Netflix Clone            | Full-stack streaming platform clone            | React, Node.js, MongoDB   |
+| 🗳 Blockchain Voting System | Secure and transparent voting platform         | Python, Blockchain        |
+
+---
+
+# 📈 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek000kumar&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 ACTIVITY NETWORK
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek000kumar&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=flat&no-frame=true&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION LIFEFORM
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek000kumar&bg_color=0D1117&color=FFFFFF&line=4A5568&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -343,33 +103,42 @@ Python • Blockchain
 
 ---
 
-# 🛰 CURRENT MISSION
+# 🎯 Currently Working On
 
-```diff
-+ Building Production Ready AI Agents
-+ Developing Full Stack Applications
-+ Exploring Multi-Agent Architectures
-+ Learning Advanced RAG Systems
-+ Open Source Contributions
-+ AI Research & Innovation
+```yaml
+AI:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Generative AI
+  - Advanced RAG
+
+Development:
+  - Full Stack Applications
+  - REST APIs
+  - Cloud Deployment
+
+Learning:
+  - MLOps
+  - System Design
+  - Scalable AI Systems
 ```
 
 ---
 
-# 🌍 CONNECT
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/Vivek000kumar">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vivek-kumar-6616b4325">
-<img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:vasudev000krishna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -378,10 +147,8 @@ Python • Blockchain
 
 <div align="center">
 
-## ⚡ Artificial Intelligence is the New Electricity
-
-### Building the Future with AI, Full Stack Development & Open Source
+### Build • Learn • Contribute • Repeat
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:140021,50:4B0082,75:7F00FF,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
