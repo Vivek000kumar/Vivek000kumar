@@ -1,154 +1,86 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Vivek+Kumar;AI+Engineer;Full+Stack+Developer;Agentic+AI+Builder;Open+Source+Enthusiast"/>
+# 👋 Hi, I'm Vivek Kumar
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Vivek000kumar&label=PROFILE+VIEWS&style=flat-square&color=grey"/>
+### AI Engineer • Full Stack Developer • Agentic AI Enthusiast
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2c0f2f52-72b0-4c96-b46f-6b9d65f7f6cb.gif" width="100%">
+## 🚀 About Me
 
-# ~/about
+🎓 B.Tech AI & Data Science
 
-```console
-$ whoami
+📍 Delhi, India
 
-Name        : Vivek Kumar
-Role        : AI Engineer
-Education   : B.Tech AI & Data Science
-Location    : India
+🤖 Building Agentic AI Systems
 
-Focus Areas :
-- Agentic AI
-- Machine Learning
-- Data Science
-- Full Stack Development
-- Open Source
+🌐 Full Stack Developer
 
-Status      : Building intelligent systems
-```
+📊 Data Science Enthusiast
 
 ---
 
-<div align="center">
+## ⚙️ Technology Stack
 
-<img width="500" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74aa-4c42-9d6e-c4f5f4d68b4d.gif">
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,mysql,tensorflow,pytorch,git"/>
 
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,docker,git,github,vscode"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                     | Description                                    | Stack                     |
-| --------------------------- | ---------------------------------------------- | ------------------------- |
-| 🤖 Agentic AI Assistant     | Autonomous AI workflows and intelligent agents | Python, LangChain, OpenAI |
-| 😊 Emotion Detection System | Real-time facial emotion recognition           | TensorFlow, OpenCV        |
-| 🎬 Netflix Clone            | Full-stack streaming platform clone            | React, Node.js, MongoDB   |
-| 🗳 Blockchain Voting System | Secure and transparent voting platform         | Python, Blockchain        |
-
----
-
-# 📈 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek000kumar&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+| Project | Tech |
+|----------|------|
+| 🤖 Agentic AI Assistant | Python, LangChain |
+| 😊 Emotion Detection | TensorFlow, OpenCV |
+| 🎬 Netflix Clone | React, Node.js |
+| 🗳 Blockchain Voting | Python |
 
 ---
 
-# 🏆 Achievements
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=flat&no-frame=true&column=4"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vivek000kumar&show_icons=true&theme=github_dark"/>
 
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek000kumar&layout=compact&theme=github_dark"/>
 
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek000kumar&bg_color=0D1117&color=FFFFFF&line=4A5568&point=FFFFFF&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🔥 Streak Stats
 
-<div align="center">
+<p align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Vivek000kumar/Vivek000kumar/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek000kumar&theme=github-dark-blue"/>
 
-</div>
-
----
-
-# 🎯 Currently Working On
-
-```yaml
-AI:
-  - Agentic AI
-  - Multi-Agent Systems
-  - Generative AI
-  - Advanced RAG
-
-Development:
-  - Full Stack Applications
-  - REST APIs
-  - Cloud Deployment
-
-Learning:
-  - MLOps
-  - System Design
-  - Scalable AI Systems
-```
+</p>
 
 ---
 
-# 🌐 Connect
+## 🏆 Achievements
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Vivek000kumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=algolia&no-frame=true"/>
 
-<a href="https://www.linkedin.com/in/vivek-kumar-6616b4325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vasudev000krishna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🌍 Connect
 
-### Build • Learn • Contribute • Repeat
+<p align="center">
 
-</div>
+<a href="https://github.com/Vivek000kumar">GitHub</a> •
+<a href="https://www.linkedin.com/in/vivek-kumar-6616b4325">LinkedIn</a> •
+<a href="mailto:vasudev000krishna@gmail.com">Email</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+</p>
