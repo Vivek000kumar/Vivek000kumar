@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:1a0033,50:4B0082,75:7F00FF,100:000000&text=VIVEK%20KUMAR&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20AI%20Developer%20•%20Open%20Source%20Builder&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:140021,50:4B0082,75:7F00FF,100:000000&text=VIVEK%20KUMAR&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Agentic%20AI%20Builder&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Loading+Agentic+Systems...;Building+Autonomous+Intelligence...;Exploring+Multi-Agent+Architectures...;Transforming+Data+Into+Decisions..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Loading+Agentic+Systems...;Building+Autonomous+Intelligence...;Developing+Full+Stack+Applications...;Exploring+Multi-Agent+Architectures...;Transforming+Data+Into+Decisions..." />
 
 <br>
 
@@ -16,12 +16,32 @@
 
 ```bash
 ┌──────────────────────────────────────────────┐
-│ AI CORE STATUS : ONLINE                      │
-│ AGENTIC SYSTEMS : ACTIVE                     │
-│ MACHINE LEARNING : RUNNING                   │
-│ DATA SCIENCE : OPERATIONAL                   │
-│ OPEN SOURCE : CONTRIBUTING                   │
+│ AI CORE STATUS        : ONLINE               │
+│ AGENTIC SYSTEMS       : ACTIVE               │
+│ FULL STACK MODULE     : RUNNING              │
+│ MACHINE LEARNING      : OPERATIONAL          │
+│ OPEN SOURCE MODE      : ENABLED              │
 └──────────────────────────────────────────────┘
+```
+
+---
+
+# 💻 TERMINAL
+
+```bash
+vivek@cybercore:~$ whoami
+
+Name       : Vivek Kumar
+Role       : AI Engineer & Full Stack Developer
+Education  : B.Tech AI & Data Science
+Location   : Delhi, India
+
+Current Focus:
+- Agentic AI
+- Multi-Agent Systems
+- Full Stack Development
+- Machine Learning
+- Generative AI
 ```
 
 ---
@@ -32,19 +52,23 @@
 class VivekKumar:
 
     role = "AI Engineer"
-    specialization = "Artificial Intelligence & Data Science"
+
+    specialization = [
+        "Artificial Intelligence",
+        "Data Science",
+        "Machine Learning",
+        "Full Stack Development"
+    ]
 
     currently_building = [
         "Agentic AI Systems",
-        "Autonomous Workflows",
-        "Predictive Analytics",
-        "LLM Applications",
-        "Multi-Agent Systems"
+        "AI Assistants",
+        "Netflix Clone",
+        "Blockchain Applications",
+        "Autonomous Workflows"
     ]
 
-    location = "Delhi, India"
-
-    mission = "Build AI systems that think, reason and create impact"
+    mission = "Build intelligent systems that solve real-world problems"
 ```
 
 ---
@@ -53,6 +77,7 @@ class VivekKumar:
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
@@ -90,15 +115,17 @@ Data Science
 
 ---
 
-# ⚔️ TECH ARSENAL
+# ⚔️ FULL STACK + AI ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,r,git,github,vscode,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,github,vscode,docker"/>
 
 </div>
 
-### AI / ML Stack
+---
+
+## 🤖 AI / ML
 
 ```yaml
 Machine Learning:
@@ -109,83 +136,170 @@ Machine Learning:
 Generative AI:
   - OpenAI API
   - LangChain
-  - Hugging Face
   - CrewAI
   - AutoGen
+  - Hugging Face
 
 Data Science:
   - Pandas
   - NumPy
   - Matplotlib
   - Power BI
+  - Predictive Analytics
 ```
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🌐 Full Stack Development
 
-## 🤖 AGENTIC AI ASSISTANT
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - HTML5
+  - CSS3
+  - JavaScript
+  - TypeScript
 
-```text
-Status      : ACTIVE
-Version     : v1.0
-Technology  : Python, LangChain, OpenAI
+Backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+
+Database:
+  - MongoDB
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - Docker
+  - VS Code
 ```
 
-Autonomous AI system capable of:
+---
 
-✓ Data Cleaning
+# 🚀 PROJECT MATRIX
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Agentic AI Assistant
+
+### Tech Stack
+
+Python • LangChain • OpenAI
+
+### Features
+
+✓ Autonomous AI Agents
 
 ✓ Data Analysis
 
-✓ Visualization
+✓ Automated Insights
 
-✓ Natural Language Interaction
+✓ Natural Language Queries
 
----
+</td>
 
-## 🎬 MOVIE RECOMMENDER SYSTEM
+<td width="50%">
 
-```text
-Status      : DEPLOYED
-Category    : Recommendation Engine
-```
+<img src="assets/agentic-demo.gif"/>
 
-AI-powered recommendation system using Machine Learning.
+</td>
 
----
+</tr>
 
-## 😊 EMOTION DETECTION SYSTEM
+<tr>
 
-```text
-Status      : ACTIVE
-Category    : Computer Vision
-```
+<td width="50%">
 
-Real-time facial emotion recognition using Deep Learning.
+## 😊 Emotion Detection System
 
----
+### Tech Stack
 
-## 🗳 BLOCKCHAIN VOTING SYSTEM
+Python • TensorFlow • OpenCV
 
-```text
-Status      : RESEARCH
-Category    : Secure Voting
-```
+### Features
 
-Blockchain-powered transparent voting platform.
+✓ Real-Time Detection
 
----
+✓ Face Recognition
 
-# 📊 NEURAL ANALYTICS DASHBOARD
+✓ Emotion Classification
 
-<div align="center">
+</td>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivek000kumar&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek000kumar&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img src="assets/emotion-demo.gif"/>
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Netflix Clone
+
+### Tech Stack
+
+React • Node.js • MongoDB
+
+### Features
+
+✓ Authentication
+
+✓ Responsive UI
+
+✓ Dynamic Content
+
+✓ Movie Catalog
+
+</td>
+
+<td width="50%">
+
+<img src="assets/netflix-demo.gif"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🗳 Blockchain Voting System
+
+### Tech Stack
+
+Python • Blockchain
+
+### Features
+
+✓ Secure Voting
+
+✓ Transparency
+
+✓ Tamper Resistant
+
+</td>
+
+<td width="50%">
+
+<img src="assets/blockchain-demo.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -203,7 +317,7 @@ Blockchain-powered transparent voting platform.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=discord&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek000kumar&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -213,7 +327,7 @@ Blockchain-powered transparent voting platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek000kumar&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek000kumar&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -233,8 +347,9 @@ Blockchain-powered transparent voting platform.
 
 ```diff
 + Building Production Ready AI Agents
-+ Learning Multi-Agent Architectures
-+ Exploring Advanced RAG Pipelines
++ Developing Full Stack Applications
++ Exploring Multi-Agent Architectures
++ Learning Advanced RAG Systems
 + Open Source Contributions
 + AI Research & Innovation
 ```
@@ -263,10 +378,10 @@ Blockchain-powered transparent voting platform.
 
 <div align="center">
 
-## ⚡ "Artificial Intelligence is the new electricity."
+## ⚡ Artificial Intelligence is the New Electricity
 
-### Building the future, one intelligent system at a time.
+### Building the Future with AI, Full Stack Development & Open Source
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:1a0033,50:4B0082,75:7F00FF,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,25:140021,50:4B0082,75:7F00FF,100:000000"/>
